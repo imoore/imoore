@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ian!
 
-I'm Ian, I'm a developer based in Aldershot. I specialise in creating websites for individuals and small-medium sized businesses. 
+I'm a developer based in Aldershot. I specialise in creating websites for individuals and small-medium sized businesses. 
 
 ---
 
