@@ -11,13 +11,13 @@ Things I use in my day to day and on personal projects.
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,powershell,go,ts,py&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,powershell,go,ts,py&perline=10" />
 </p>
 
 ### 🧩 Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular&perline=10" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,angular&perline=10" />
 </p>
 
 ### 📚 Libraries
